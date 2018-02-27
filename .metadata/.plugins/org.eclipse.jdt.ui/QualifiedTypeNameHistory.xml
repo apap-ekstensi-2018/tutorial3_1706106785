@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="org.springframework.stereotype.Controller"/>
-<fullyQualifiedTypeName name="org.springframework.ui.Model"/>
-<fullyQualifiedTypeName name="com.example.tutorial_3.service.InMemoryStudentService"/>
-<fullyQualifiedTypeName name="com.example.tutorial_3.service.StudentService"/>
-<fullyQualifiedTypeName name="com.example.tutorial_3.model.StudentModel"/>
-</qualifiedTypeNameHistroy>
